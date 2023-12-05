@@ -7,5 +7,5 @@
 A clone of the mobile game [Alto’s Adventure](https://www.youtube.com/watch?v=Wk5JupHelAg), made in Unity
 
 ## Controls
-        Left Click: Jump, hold left click to do backflip
-       Right Click: Glide (do backflips to charge up)
+     Left Click: Jump, hold left click to do backflip
+    Right Click: Glide (do backflips to charge up)
