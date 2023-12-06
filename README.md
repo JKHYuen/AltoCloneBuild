@@ -12,4 +12,4 @@ Launch with "Alto Clone.exe".
 
 ## Controls
      Left Click: Jump, hold left click to do backflip
-    Right Click: Glide (do backflips to charge up)
+    Right Click: Glide (mid air only, do backflips to charge up)
