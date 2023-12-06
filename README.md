@@ -11,5 +11,5 @@ A clone of the mobile game [Alto’s Adventure](https://www.youtube.com/watch?v=
 Launch with "Alto Clone.exe".
 
 ## Controls
-     Left Click: Jump, hold left click to do backflip
-    Right Click: Glide (mid air only, do backflips to charge up)
+     Left-Click: Jump, hold left-click to do backflip
+    Right-Click: Glide (mid air only, do backflips to charge up)
