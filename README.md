@@ -1,4 +1,4 @@
-# Alto Clone
+# Alto Clone (2020)
 *Uploaded for my game development portfolio, see https://jkhyuen.github.io/other-projects#alto for full details.*
 
 ***Windows 64-bit required** 
